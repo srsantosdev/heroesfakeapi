@@ -1,0 +1,56 @@
+{
+  "avengers": [
+    {
+      "id": 1,
+      "name": "Homem de ferro"
+    },
+    {
+      "id": 2,
+      "name": "Viúva negra"
+    },
+    {
+      "id": 3,
+      "name": "Capitão américa"
+    },
+    {
+      "id": 4,
+      "name": "Thor"
+    },
+    {
+      "id": 5,
+      "name": "Hulk"
+    },
+    {
+      "id": 6,
+      "name": "Gavião arqueiro"
+    },
+    {
+      "id": 7,
+      "name": "Nick Fury"
+    },
+    {
+      "id": 8,
+      "name": "Sam Wilson"
+    },
+    {
+      "id": 9,
+      "name": "Pepper Potts"
+    },
+    {
+      "id": 10,
+      "name": "Pantera Negra"
+    },
+    {
+      "id": 11,
+      "name": "Homem formiga"
+    },
+    {
+      "id": 12,
+      "name": "Homem aranha"
+    },
+    {
+      "id": 13,
+      "name": "Thanos"
+    }
+  ]
+}
