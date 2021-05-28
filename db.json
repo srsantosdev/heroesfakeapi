@@ -2,55 +2,59 @@
   "avengers": [
     {
       "id": 1,
-      "name": "Homem de ferro"
+      "name": "Homem de ferro",
+      "actor": "Robert Downey Jr.",
+      "description": "Empresário e bilionário, Tony Stark, que usa armaduras de alta tecnologia no combate ao crime.",
+      "image": "https://convitestore.com.br/wp-content/uploads/2020/10/Homem_de_ferro.jpg"
     },
     {
       "id": 2,
-      "name": "Viúva negra"
+      "name": "Viúva negra",
+      "image": "https://static.wikia.nocookie.net/universocinematograficomarvel/images/9/9a/BlackWidow-EndgameProfile.jpg/revision/latest?cb=20190511170200&path-prefix=pt",
+      "description": "Natasha Romanoff é uma espiã e uma lutadora corpo a corpo experiente, treinada na Sala Vermelha desde a infância.",
+      "actor": "Scarlett Johansson"
     },
     {
       "id": 3,
-      "name": "Capitão américa"
+      "name": "Capitão américa",
+      "image": "https://conteudo.imguol.com.br/c/entretenimento/29/2019/05/14/prototipo-de-escudo-para-o-capitao-america-1557835749148_v2_1080x1290.jpg",
+      "description": "O Capitão América mais famoso e popular e também o personagem original é o alter-ego de Steve Rogers, um jovem franzino que atinge o pico da perfeição humana após aplicar um soro experimental com o intuito de ajudar os Estados Unidos contra as potências do Eixo. Perto do fim da guerra, ficou preso no gelo e sobreviveu em animação suspensa até que foi revivido nos dias atuais.",
+      "actor": "Chris Evans"
     },
     {
       "id": 4,
-      "name": "Thor"
+      "name": "Thor",
+      "image": "https://static.wikia.nocookie.net/universocinematograficomarvel/images/4/4c/Thor-Ultimato.jpg/revision/latest?cb=20190514112708&path-prefix=pt",
+      "description": "Thor é virtualmente um deus de outra realidade, possuindo vastos poderes. Desta maneira, possui uma enorme força e velocidade sobre-humanas. Também é capaz de controlar os elementos da tempestade, gerando trovões, relâmpagos, raios, furacões e geadas. Além de possuir armas poderosas, como o martelo mágico Mjölnir.",
+      "actor": "Chris Hemsworth"
     },
     {
       "id": 5,
-      "name": "Hulk"
+      "name": "Hulk",
+      "image": "https://i.pinimg.com/originals/3d/c8/26/3dc826c7103ae621402e887c55f2cdbf.jpg",
+      "description": "O Hulk é um selvagem e poderoso alter ego do Dr. Robert Bruce Banner, um cientista que foi atingido por raios gama enquanto salvava um adolescente durante o teste militar de uma bomba por ele desenvolvida.",
+      "actor": "Mark Ruffalo"
     },
     {
       "id": 6,
-      "name": "Gavião arqueiro"
+      "name": "Gavião arqueiro",
+      "image": "https://i.pinimg.com/originals/7c/20/e2/7c20e22e0a6fda314e9918570175890d.jpg",
+      "description": "Barton já treinou a si mesmo para se tornar um mestre arqueiro especializado na utilização de curvas regulares, arcos, arcos compostos, e bestas com quase perfeita exatidão. Ele é capaz de disparar várias flechas em um único alvo em poucos segundos, atingindo vários alvos em alguns golpes rápidos e atingindo diretamente alvos pequenos em maior distância.",
+      "actor": "Jeremy Renner"
     },
     {
       "id": 7,
-      "name": "Nick Fury"
-    },
-    {
-      "id": 8,
-      "name": "Sam Wilson"
-    },
-    {
-      "id": 9,
-      "name": "Pepper Potts"
+      "name": "Nick Fury",
+      "image": "https://static.wikia.nocookie.net/marvel/images/8/89/Nick_Fury_%28Earth-199999%29_from_Avengers-_Age_of_Ultron.jpg/revision/latest/top-crop/width/360/height/450?cb=20160618071507&path-prefix=pt-br",
+      "description": "Nicholas Joseph é conhecido por ser agente e líder da agência secreta de espionagem S.H.I.E.L.D.",
+      "actor": "Samuel L. Jackson"
     },
     {
       "id": 10,
-      "name": "Pantera Negra"
-    },
-    {
-      "id": 11,
-      "name": "Homem formiga"
-    },
-    {
-      "id": 12,
-      "name": "Homem aranha"
-    },
-    {
-      "id": 13,
-      "name": "Thanos"
+      "name": "Pantera Negra",
+      "image": "http://pm1.narvii.com/7001/a9c610f6c33800eeda3fdb6714fc77661d00716br1-648-960v2_uhq.jpg",
+      "description": " Além de possuir habilidades aprimoradas alcançadas através de um antigo ritual de Wakanda, T'Challa também conta com seu intelecto genial, treinamento físico rigoroso, habilidade em artes marciais, acesso a tecnologias avançadas e riqueza para combater seus inimigos.",
+      "actor": "Chadwick Boseman"
     }
   ]
 }
